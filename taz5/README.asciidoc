@@ -2,3 +2,9 @@
 
 Printable parts for the TAZ 5 3D Printer.
 
+See also these locations on the Lulz site for TAZ 5 parts:
+
+* link:http://devel.lulzbot.com/TAZ/Juniper/production_parts/printed_parts/[] -- "Juniper" is the TAZ 5 printer (KT-PR0017).
+* link:http://devel.lulzbot.com/TAZ/Juniperbush/production_parts/printed_parts/[] -- "Juniperbush" is the TAZ 5 printer with the 0.5mm nozzle (KT-PR0036).
+
+See link:http://devel.lulzbot.com/TAZ/README.html[this Lulz README] for a mapping between model names and numbers.
