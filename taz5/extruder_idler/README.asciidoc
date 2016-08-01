@@ -1,0 +1,24 @@
+= extruder_idler
+
+The TAZ 5 extruder idler is a part that holds a 608 bearing that presses
+the filament against the nurled bolt that pushes the filament into the
+print head.
+
+According to a Lulz service bulletin, the extruder idler is prone to
+cracking during the manufacturing process. The TAZ 5 at Robot Garden
+had its extruder idler crack within a month or two. On July 31, 2016,
+it was replaced. The stock idler design makes it very difficult to
+insert the 608 bearing. The modified design here shaves a little off
+the stock part, making the bearing installation much easier.
+
+Files:
+
+* link:taz5_idler.scad -- OpenSCAD design of modified idler -- Modified
+by Mark Rose July 30, 2016.
+
+* link:taz5_idler.stl -- STL from OpenSCAD modified design.
+
+* link:extruder_idler_v1.4.stl[extruder_idler_v1.4.stl] -- Original
+idler design downloaded from link:http://devel.lulzbot.com/TAZ/Juniper/production_parts/printed_parts/extruder_idler/.
+See link:http://devel.lulzbot.com/COPYING for
+licensing information.
