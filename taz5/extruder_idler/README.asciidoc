@@ -13,12 +13,12 @@ the stock part, making the bearing installation much easier.
 
 Files:
 
-* link:taz5_idler.scad -- OpenSCAD design of modified idler -- Modified
+* link:taz5_idler.scad[] -- OpenSCAD design of modified idler -- Modified
 by Mark Rose July 30, 2016.
 
-* link:taz5_idler.stl -- STL from OpenSCAD modified design.
+* link:taz5_idler.stl[] -- STL from OpenSCAD modified design.
 
-* link:extruder_idler_v1.4.stl[extruder_idler_v1.4.stl] -- Original
-idler design downloaded from link:http://devel.lulzbot.com/TAZ/Juniper/production_parts/printed_parts/extruder_idler/.
-See link:http://devel.lulzbot.com/COPYING for
+* link:extruder_idler_v1.4.stl[] -- Original
+idler design downloaded from link:http://devel.lulzbot.com/TAZ/Juniper/production_parts/printed_parts/extruder_idler/[].
+See link:http://devel.lulzbot.com/COPYING[] for
 licensing information.
