@@ -1,0 +1,11 @@
+= parts
+Designs and printable files for parts for RobotGarden equipment and projects.
+
+== Licenses
+
+Some of these files are copied from elsewhere or modified versions of parts from elsewhere.
+Please put attribution information in a README in the part's directory or in textual information
+with the part.
+
+Original parts are licensed under the terms of the BSD license. See the LICENSE file
+for details.
